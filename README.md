@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A passionate Discord bot developer from the United Kingdom.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonfire1859" alt="dragonfire1859" /> </p>
-
 - 🔭 I’m currently working on [Saikou Bot V2](https://github.com/Saikou-Bot/SaikouBotV2)
 
 - 🌱 I’m currently learning **More about JavaScript**

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">A passionate Discord bot developer from the United Kingdom.</h3>
 
-- 🔭 I’m currently working on [Saikou Bot V2](https://github.com/Saikou-Bot/SaikouBotV2)
+- 🔭 I’m currently working on [Dashty Projects](https://github.com/Dashty-Dev)
 
 - 🌱 I’m currently learning **More about JavaScript**
 

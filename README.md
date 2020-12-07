@@ -21,7 +21,5 @@
 ### Contact Me 📮
 <p align="center"> 
 <a href="https://twitter.com/dragonfire1859" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dragonfire1859" height="30" width="30" /></a>
-</p>
-<p align="center"> 
 <a href="https://twitter.com/dragonfire1859" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Brandong04" height="30" width="30" /></a>
 </p>

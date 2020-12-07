@@ -8,6 +8,7 @@
 
 ### Github Statistics 📈
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brandong04&show_icons=true" alt="Brandong04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandong04&layout=compact" alt="Brandong04" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandong04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 

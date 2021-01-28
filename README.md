@@ -17,6 +17,7 @@
 
 ### Github Statistics 📈
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brandong04&show_icons=true" alt="Brandong04" /></p>
+<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandong04&layout=compact" alt="Top Langs" /></td>
 
 ### Contact Me 📮
 <p align="left"> 

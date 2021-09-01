@@ -1,9 +1,9 @@
 <h1 align="center">Greetings, I'm Brandon 👋</h1>
 <h3 align="center">A passionate developer from the United Kingdom.</h3>
 
-- 🔭 I’m currently working on [Dashty Projects](https://github.com/Dashty-Dev)
+- 🔭 I’m currently working on [Saikou Projects](https://github.com/Saikou-Bot)
 
-- 🌱 I’m currently learning more about **JavaScript**
+- 🌱 I’m currently learning more about **TypeScript**
 
 ### Languages and Tools 🛠️
 

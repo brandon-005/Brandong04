@@ -16,10 +16,10 @@
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
 
 ### Github Statistics 📈
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandon-05&show_icons=true" alt="brandon-05" /></p>
-<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-05&layout=compact" alt="Top Langs" /></td>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandon-005&show_icons=true" alt="brandon-005" /></p>
+<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-005&layout=compact" alt="Top Langs" /></td>
 
 ### Contact Me 📮
 <p align="left"> 
-<a href="https://github.com/Brandong04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="brandon-05" height="30" width="30" /></a>
+<a href="https://github.com/brandon-005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="brandon-005" height="30" width="30" /></a>
 </p>

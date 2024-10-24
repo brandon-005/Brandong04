@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, I'm Brandon 👋</h1>
 <h3 align="center">A passionate developer from the United Kingdom.</h3>
 
-- 🔭 I’m currently working on [Saikou Projects](https://github.com/Saikou-Bot)
+- 🔭 I’m currently working on University projects.
 
 - 🌱 I’m currently learning more about **TypeScript**
 

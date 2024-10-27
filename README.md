@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on University projects.
 
-- 🌱 I’m currently learning more about **TypeScript**
+- 🌱 I’m currently learning more about **TypeScript**.
 
 ### Languages and Tools 🛠️
 
@@ -14,7 +14,13 @@
 [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/) 
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
 ### Github Statistics 📈
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandon-005&show_icons=true" alt="brandon-005" /></p>
 <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-005&layout=compact" alt="Top Langs" /></td>
+
+
+### Contact Me 💬
+<p><a href="https://www.linkedin.com/in/brandon05/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/brandon-005" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+</p>
